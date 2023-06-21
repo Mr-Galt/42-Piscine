@@ -4,6 +4,8 @@ Welcome to Project C00, the first stepping stone in my coding journey at the 42 
 
 In this project, I had to implement a number of basic functions, each designed to give me (and you!) a stronger understanding of the fundamentals of C. Feel free to explore, critique, and learn from my work!
 
+![alt text][Eva]
+
 ## Inside this Project 🗂️
 
 This project comprises of the following functions:
@@ -33,3 +35,10 @@ I'd love to hear your thoughts on these functions! Feel free to open an issue if
 ## Final Note 📝
 
 Project C00 is an exciting first step in the 42 Piscine journey. It's about building the basic building blocks that will be invaluable in the future. Explore, learn and enjoy!
+
+![alt text][Description]
+
+[Description]: https://github.com/Mr-Galt/42-Piscine/blob/main/C00/src/Description.png
+[Eva]: https://github.com/Mr-Galt/42-Piscine/blob/main/C00/src/evaluation.JPG
+[Points]: https://github.com/Mr-Galt/42-Piscine/blob/main/C00/src/points.JPG
+
