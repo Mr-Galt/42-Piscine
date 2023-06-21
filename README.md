@@ -13,7 +13,7 @@ Inside this Repository 🗂️
 
 ### Here's a little roadmap to navigate through my journey:
 
-* __CXX / SHellXX / Exam__: This directories hold all the projects I worked on during the piscine. You'll see how my code evolved from one project to the next.
+* __CXX / SHellXX / Exam__: These directories hold all the projects I worked on during the piscine. You'll see how my code evolved from one project to the next.
 * __Resources__: Here, you'll find the resources and references I found most helpful throughout my journey.
 * __Reflections__: This is a special corner where I share my personal reflections, thoughts, the broader perspectives I gained throughout this intense learning experience and day-to-day progress reports, filled with successes, failures, and invaluable lessons
 
