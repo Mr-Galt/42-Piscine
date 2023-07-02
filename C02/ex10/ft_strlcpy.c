@@ -38,16 +38,3 @@ unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 	}
 	return (len);
 }
-
-/*
-#include <stdio.h>
-#include <unistd.h>
-
-int	main(void)
-
-{
-	char	src[] = "Martin";
-	char	dest[] = "ja";
-	printf("Result: %i", ft_strlcpy(dest, src, 6));
-}
-*/
