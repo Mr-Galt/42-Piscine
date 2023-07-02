@@ -23,18 +23,3 @@ int	ft_str_is_printable(char *str)
 	}	
 	return (1);
 }
-
-/*
-#include <stdio.h>
-
-int	main(void)
-{
-	char string1[] = "AbCdEfG";
-	char string2[] = "adsdfgr";
-	char string3[] = {4, 3, 7};
-
-	printf("%d\n", ft_str_is_printable(string1));
-	printf("%d\n", ft_str_is_printable(string2));
-	printf("%d\n", ft_str_is_printable(string3));
-}
-*/
