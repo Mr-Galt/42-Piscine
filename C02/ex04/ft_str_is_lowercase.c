@@ -25,18 +25,3 @@ int	ft_str_is_lowercase(char *str)
 	}
 	return (1);
 }
-
-/*
-#include <stdio.h>
-
-int	main(void)
-{
-	char string1[] = "AbCdEfG";
-	char string2[] = "adsdfgr";
-	char string3[] = "";
-
-	printf("%d\n", ft_str_is_lowercase(string1));
-	printf("%d\n", ft_str_is_lowercase(string2));
-	printf("%d\n", ft_str_is_lowercase(string3));
-}
-*/
