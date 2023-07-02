@@ -43,15 +43,3 @@ void	ft_putstr_non_printable(char *str)
 		i++;
 	}
 }
-
-/*
-int	main(void)
-{	
-	ft_putstr_non_printable("Martin\ngeht es gut.");
-	ft_putchar('\n');
-	ft_putstr_non_printable("Aber wa\trum ge\vht es ihm g\0ut?");
-	ft_putchar('\n');
-	ft_putstr_non_printable("");
-	ft_putchar('\n');
-}
-*/
