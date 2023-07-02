@@ -24,18 +24,3 @@ char	*ft_strlowcase(char *str)
 	}
 	return (str);
 }
-
-/*
-#include <stdio.h>
-
-int	main(void)
-{
-	char string1[] = "AbCdEfG";
-	char string2[] = "adsdfgr";
-	char string3[] = "";
-
-	printf("%s\n", ft_strlowcase(string1));
-	printf("%s\n", ft_strlowcase(string2));
-	printf("%s\n", ft_strlowcase(string3));
-}
-*/
