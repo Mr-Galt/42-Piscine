@@ -27,14 +27,3 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
-/*
-#include <stdio.h>
-#include <string.h>
-
-int	main(void)
-{
-	char	src[] = "Hello World!";
-	char	dest[12];
-
-	printf("%s", ft_strncpy(dest, src, 10));
-}*/
