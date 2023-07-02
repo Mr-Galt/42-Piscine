@@ -25,18 +25,3 @@ int	ft_str_is_alpha(char *str)
 	}
 	return (1);
 }
-
-/*
-#include <stdio.h>
-
-int	main(void)
-{
-	char string1[] = "AbCdEfG";
-	char string2[] = "ag34525";
-	char string3[] = "";
-
-	printf("%d\n", ft_str_is_alpha(string1));
-	printf("%d\n", ft_str_is_alpha(string2));
-	printf("%d\n", ft_str_is_alpha(string3));
-}
-*/
