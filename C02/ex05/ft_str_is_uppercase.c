@@ -25,17 +25,3 @@ int	ft_str_is_uppercase(char *str)
 	}
 	return (1);
 }
-
-/*
-#include <stdio.h>
-
-int	main(void)
-{
-	char string1[] = "AbCdEfG";
-	char string2[] = "ABCDEFG";
-	char string3[] = "";
-
-	printf("%d\n", ft_str_is_uppercase(string1));
-	printf("%d\n", ft_str_is_uppercase(string2));
-	printf("%d\n", ft_str_is_uppercase(string3));
-}*/
