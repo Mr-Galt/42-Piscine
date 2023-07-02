@@ -53,17 +53,3 @@ char	*ft_strcapitalize(char *str)
 	}
 	return (str);
 }
-/*
-#include <unistd.h>
-#include <stdio.h>
-int	main(void)
-{
- 	char str1[] = "ich bin ein berliner? ja, ich bin einer.";
- 	char str2[] = "dfgk fdgl eo46= sdg-gg sadf, gfsdg?";
- 	printf("OG Input str1: %s\n", str1);
-	printf("Output str1: %s\n", ft_strcapitalize(str1));
-	write(1, "\n", 1);
-	printf("OG Input str2: %s\n", str2);
- 	printf("Output str2: %s\n", ft_strcapitalize(str2));
-}
-*/
