@@ -25,17 +25,3 @@ int	ft_str_is_numeric(char *str)
 	}
 	return (1);
 }
-
-/*
-#include <stdio.h>
-int main(void)
-{
-	char string1[] = "1234567";
-	char string2[] = "13fdvng";
-	char string3[] = "";
-
-	printf("%d\n", ft_str_is_numeric(string1));
-	printf("%d\n", ft_str_is_numeric(string2));
-	printf("%d\n", ft_str_is_numeric(string3));
-}
-*/
