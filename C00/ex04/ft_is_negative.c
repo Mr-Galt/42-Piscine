@@ -21,9 +21,11 @@ void	ft_is_negative(int n)
 	{
 		status = 'N';
 	}
+	// This chunk of code is unnecessary; `status` never changes if the conditional doesn't go through.
+	/*
 	else
-	{
-	status = 'P';
-	}
+	 {
+	 status = 'P';
+	 }*/
 	write(1, &status, 1);
 }
